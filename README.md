@@ -13,7 +13,6 @@
 * Utilizar o _React Hook useEffect_;
 * Criar _React Hooks_ customizados.
 
-
 # Requisitos do projeto
 
 ## Lista de requisitos
